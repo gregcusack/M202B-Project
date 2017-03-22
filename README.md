@@ -9,4 +9,4 @@ M202BProj_v1.cpp:
 
 convertAudio.sh:
 
--converts .raw files into the .wav file for python scripting.  Called from M202Proj_v1.cpp
+-converts .raw files into the .wav file for python scripting.  Called from M202BProj_v1.cpp

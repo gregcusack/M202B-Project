@@ -10,3 +10,8 @@ M202BProj_v1.cpp:
 convertAudio.sh:
 
 -converts .raw files into the .wav file for python scripting.  Called from M202BProj_v1.cpp
+
+
+Train Voice Files
+
+-priscillaVoiceFile.wav, gregVoiceFile.wav, lizVoiceFile.wav

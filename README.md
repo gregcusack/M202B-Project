@@ -15,3 +15,10 @@ convertAudio.sh:
 Train Voice Files
 
 -priscillaVoiceFile.wav, gregVoiceFile.wav, lizVoiceFile.wav
+
+
+
+Project Website:
+https://sites.google.com/view/convoclassifier/home
+
+
